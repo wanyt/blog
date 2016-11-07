@@ -32,6 +32,12 @@
 
 * [Retrofit 源码解读之离线缓存策略的实现](http://www.jianshu.com/p/3a8d910cce38)
 
+# WebView
+
+* [WebView你真的熟悉吗？看了才知道](http://www.jianshu.com/p/d2f5ae6b4927)
+
+    WebView的使用以及作者踩的坑
+
 # Android项目架构
 
 * [【译】Android应用架构](http://www.jianshu.com/p/8ca27934c6e6)
